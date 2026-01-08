@@ -4,6 +4,17 @@
 
 ## 📝 Descrição do Projeto
 Este relatório detalha a implementação de uma rede de internet para a empresa **Super Tech**. O foco do projeto foi a segmentação da rede para garantir segurança, organização e escalabilidade.
+### Visão Geral da Rede
+![Topologia Geral](./topografia-geral.png)
+
+### Detalhamento por Setores
+* **Setor Engenharia:** ![Setor 1](./setor-engenharia.png)
+---
+* **Setor TI interno:** ![Setor 2](./setor-TI.png)
+---
+* **Setor Compras:**![setor 3](./setor-compras.png)
+---
+* **Setor Infraestrutura:**![setor 4](./setor-infraestrutura.png)
 
 ## 🛠️ Especificações Técnicas
 * **Segmentação:** Criação de 4 Sub-redes distintas.
@@ -21,14 +32,9 @@ O relatório técnico detalhando as configurações e a topologia está disponí
 * Planejamento de Endereçamento IP
 * Implementação de VLANs
 * Escalabilidade de Infraestrutura de TI
+* Arquitetura de Rede
 ---
 ## 🖼️ Topologia da Rede
 Aqui estão os prints das configurações realizadas no simulador:
 
-### Visão Geral da Rede
-![Topologia Geral](./topologia-geral.png)
-
-### Detalhamento por Setores
-* **Setor 1:** ![Setor 1](./setor-1.png)
-* **Setor 2:** ![Setor 2](./setor-2.png)
 *Trabalho acadêmico desenvolvido por Daiana Paula Fernandes*
