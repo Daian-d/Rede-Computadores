@@ -4,6 +4,8 @@
 
 ## 📝 Descrição do Projeto
 Este relatório detalha a implementação de uma rede de internet para a empresa **Super Tech**. O foco do projeto foi a segmentação da rede para garantir segurança, organização e escalabilidade.
+## 🖼️ Topologia da Rede
+Aqui estão os prints das configurações realizadas no simulador:
 ### Visão Geral da Rede
 ![Topologia Geral](./topografia-geral.png)
 
@@ -34,7 +36,6 @@ O relatório técnico detalhando as configurações e a topologia está disponí
 * Escalabilidade de Infraestrutura de TI
 * Arquitetura de Rede
 ---
-## 🖼️ Topologia da Rede
-Aqui estão os prints das configurações realizadas no simulador:
+
 
 *Trabalho acadêmico desenvolvido por Daiana Paula Fernandes*
