@@ -27,7 +27,7 @@ Aqui estão os prints das configurações realizadas no simulador:
 
 ## 📄 Documentação Completa
 O relatório técnico detalhando as configurações e a topologia está disponível no link abaixo:
-👉 **[Ver Relatório de Aula Prática (PDF)](./C:/Users/Daiana/Downloads/Relatório%20Super%20Tech.pdf.pdf)**
+👉 **[Ver Relatório de Aula Prática (PDF)](./RelatorioSuperTech.pdf)**
 
 ## 🚀 Habilidades Demonstradas
 * Configuração de Switches
